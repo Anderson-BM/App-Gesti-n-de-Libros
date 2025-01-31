@@ -1,4 +1,4 @@
-# App-Gesti-n-de-Libros
+# App-Gestion-de-Libros
 Sistema de gestion de libros desarrollado con JAVA y como administrador de Bases de Datos utilice MYSQL
 
 
